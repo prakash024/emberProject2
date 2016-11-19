@@ -47,6 +47,7 @@
     "ember-watson": "^0.6.2",
     "express": "^4.12.2",
     "glob": "^5.0.1",
-    "jsdiff": "^1.1.1"
+    "jsdiff": "^1.1.1",
+    "loader.js": "^4.0.11"
   }
 }
